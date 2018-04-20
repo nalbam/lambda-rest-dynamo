@@ -1,0 +1,13 @@
+{
+  "name": "lambda-rest-dynamo",
+  "version": "1.0.0",
+  "description": "Serverless CRUD service exposing a REST HTTP interface",
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "serverless-domain-manager": "^2.3.3"
+  },
+  "dependencies": {
+    "uuid": "^2.0.3"
+  }
+}
